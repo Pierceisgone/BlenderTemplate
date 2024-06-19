@@ -18,4 +18,4 @@ My personal Blender template for creating 3D animations. The goal of this templa
 
 ## Made in the USA
 * This projects commits are hand-typed in the USA. No AI such as ChatGPT is ever, or will ever, be used. This project is built with love and passion from real people.
-* With being madein the USA, you can be confident in this project's reliablity and quality like no other.
+* With being made in the USA, you can be confident in this project's reliablity and quality like no other.
