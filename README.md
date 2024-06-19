@@ -1,4 +1,4 @@
-# BlenderTemplate - 3D animation oriented project file for Blender.
+# BlenderTemplate - 3D animation oriented template for Blender.
 
 My personal Blender template for creating 3D animations. The goal of this template is to create an organized, and simple workflow. 
 
