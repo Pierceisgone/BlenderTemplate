@@ -9,7 +9,7 @@ My personal Blender template for creating 3D animations. The goal of this templa
 
 ## Organized tabs tailored for animation:
 * Enjoy tabs tailored towards scene layout, animation, 2D effects for layering ontop of your 3D scenes, and a robust rendering tab, to help you easily setup your renders.
-* A state if the art AV tab for overlaying 2D images onto a camera, filling your creations with sound, and more!
+* A state of the art AV tab for overlaying 2D images onto a camera, filling your creations with sound, and more!
 
 ## Free and Open-Source
 * Access to the more exquisite artistic tools should never be behind a paywall. We believe in free and open access to any and all artforms. Which is why this project is Free and Open-Source under the highly permissive MIT liscense.
