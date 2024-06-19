@@ -14,7 +14,7 @@ My personal Blender template for creating 3D animations. The goal of this templa
 ## Free and Open-Source
 * Access to the most exquisite artistic tools should never be behind a paywall. We believe in free and open access to any and all artforms. Which is why this project is Free and Open-Source under the highly permissive MIT liscense.
 * Being Open-Source allows anyone to contribute at anytime, allowing for rapid development and improvement of the poject. This means you, and anyone else can help make this project the best it can be!
-* Open-Source also allows anyone to freely audit this project to make sure it secure, and safe for all users.
+* Open-Source also allows anyone to freely audit this project to make sure it is secure, and safe for all users.
 
 ## Made in the USA
 * This projects commits are hand-typed in the USA. No AI such as ChatGPT is ever, or will ever, be used. This project is built with love and passion from real people.
