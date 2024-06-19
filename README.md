@@ -12,7 +12,7 @@ My personal Blender template for creating 3D animations. The goal of this templa
 * A state of the art AV tab for overlaying 2D images onto a camera, filling your creations with sound, and more!
 
 ## Free and Open-Source
-* Access to the more exquisite artistic tools should never be behind a paywall. We believe in free and open access to any and all artforms. Which is why this project is Free and Open-Source under the highly permissive MIT liscense.
+* Access to the most exquisite artistic tools should never be behind a paywall. We believe in free and open access to any and all artforms. Which is why this project is Free and Open-Source under the highly permissive MIT liscense.
 * Being Open-Source allows anyone to contribute at anytime, allowing for rapid development and improvement of the poject. This means you, and anyone else can help make this project the best it can be!
 * Open-Source also allows anyone to freely audit this project to make sure it secure, and safe for all users.
 
