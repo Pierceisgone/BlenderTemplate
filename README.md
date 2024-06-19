@@ -2,7 +2,7 @@
 
 My personal Blender template for creating 3D animations. The goal of this template is to create an organized, and simple workflow. 
 
-## Organized collects for scenes, effects, characters and objects:
+## Organized collections for scenes, effects, characters and objects:
 * Robust and separate collections for each character and scene. As well as seperate collections for static and interactive props and or scenes. Allowing you to easily organize a project.
 * Hand tailored collections for different effects/effect types. Including but not limited to: Explosions, sparks, water simulations, gore/blood effects and camera effects (Overlays).
 * Unique collections for lights, cameras, and the scene(s).
